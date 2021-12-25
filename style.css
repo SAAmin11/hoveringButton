@@ -33,7 +33,7 @@ button {
    }
    
    button::after {
-    content: "Al Amin";
+    content: "shakil";
     position: absolute;
     top: 0;
     left: -100%;
